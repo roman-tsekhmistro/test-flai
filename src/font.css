@@ -1,0 +1,13 @@
+/** @format */
+
+@font-face {
+  font-family: 'Montserrat';
+  src: url(./assets/fonts/Montserrat.ttf);
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Inconsolata';
+  src: url(./assets/fonts/Inconsolata.ttf);
+  font-display: swap;
+}
